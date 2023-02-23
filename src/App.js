@@ -4,7 +4,7 @@ import Header from "./Header";
 import SideBar from "./SideBar";
 import Feed from './Feed';
 import { selectUser } from './features/userSlice';
-import { Login } from "@mui/icons-material";
+import Login  from ".Login";
 
 function App() {
 
